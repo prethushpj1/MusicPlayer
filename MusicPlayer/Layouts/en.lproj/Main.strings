@@ -1,0 +1,33 @@
+
+/* Class = "UIViewController"; title = "Albums"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "Albums";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9HK-Au-aWr"; */
+"9HK-Au-aWr.text" = "Label";
+
+/* Class = "UINavigationController"; title = "Albums"; ObjectID = "CuR-iH-eTx"; */
+"CuR-iH-eTx.title" = "Albums";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PHp-c8-5Bk"; */
+"PHp-c8-5Bk.text" = "Label";
+
+/* Class = "UINavigationController"; title = "Songs"; ObjectID = "QRU-ak-epB"; */
+"QRU-ak-epB.title" = "Songs";
+
+/* Class = "UITabBarItem"; title = "Songs"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Songs";
+
+/* Class = "UITabBarItem"; title = "Albums"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Albums";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "hSo-dW-VXO"; */
+"hSo-dW-VXO.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "tzL-Gy-AxQ"; */
+"tzL-Gy-AxQ.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "wq6-rF-u1S"; */
+"wq6-rF-u1S.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "zTP-1B-d0x"; */
+"zTP-1B-d0x.text" = "Subtitle";

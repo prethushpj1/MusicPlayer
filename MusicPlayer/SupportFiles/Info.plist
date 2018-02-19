@@ -51,5 +51,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>Music player would like to access your phones music.</string>
 </dict>
 </plist>

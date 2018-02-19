@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  MusicPlayer
+
+  Created by Prethush on 19/02/18.
+  Copyright © 2018 Prethush. All rights reserved.
+*/
+
+"SONGS.CELL"    = "songsCell";
+"ALBUMS.CELL"   = "albumsCell";
+"UNKNOWN.ARTIST"    = "Unknown artist";
+"SONGS"         = "Songs";
+"SONG"          = "Song";
+"MINUTES"       = "Minutes";
+"MINUTE"        = "Minute";
+"ALBUM.INFO"    = "albumInfo";
+"ALBUM.SONGS"   = "albumSongs";
+"ALL.SONGS"     = "All Songs";
+"ALL.ALBUMS"    = "All Albums";
+"NOW.PLAYING"   = "Now playing";
+"UNKNOWN.TITLE" = "Unknown title";
+"UNKNOWN.ALBUM" = "Unknown album";
