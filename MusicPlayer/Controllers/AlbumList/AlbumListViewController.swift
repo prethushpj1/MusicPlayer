@@ -27,6 +27,11 @@ final class AlbumListViewController: UIViewController {
         }
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        self.tblAlbums.reloadData()
+    }
+    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let albumInfoVC = segue.destination as? AlbumInfoTableViewController
         let albumsQuery = MPMediaQuery.albums()

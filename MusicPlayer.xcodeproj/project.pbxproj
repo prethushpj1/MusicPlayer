@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		500B67B3203C224D00430C49 /* SongsViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 500B67B2203C224D00430C49 /* SongsViewTableViewCell.swift */; };
 		509DAA5C203981BF00AD5817 /* AlbumInfoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 509DAA5B203981BF00AD5817 /* AlbumInfoTableViewController.swift */; };
 		509DAA5F2039821300AD5817 /* AlbumInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 509DAA5E2039821300AD5817 /* AlbumInfoTableViewCell.swift */; };
 		50C4314E203AAA6C0062AF17 /* AlbumListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C4314D203AAA6C0062AF17 /* AlbumListTableViewCell.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		500B67B2203C224D00430C49 /* SongsViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsViewTableViewCell.swift; sourceTree = "<group>"; };
 		509DAA5B203981BF00AD5817 /* AlbumInfoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumInfoTableViewController.swift; sourceTree = "<group>"; };
 		509DAA5E2039821300AD5817 /* AlbumInfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumInfoTableViewCell.swift; sourceTree = "<group>"; };
 		50C4314D203AAA6C0062AF17 /* AlbumListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumListTableViewCell.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				50DA534E2038731800589BEB /* SongsViewController.swift */,
+				500B67B2203C224D00430C49 /* SongsViewTableViewCell.swift */,
 			);
 			path = Songs;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50DA53512038731800589BEB /* AlbumListViewController.swift in Sources */,
+				500B67B3203C224D00430C49 /* SongsViewTableViewCell.swift in Sources */,
 				50C43159203AAF790062AF17 /* Helpers.swift in Sources */,
 				509DAA5F2039821300AD5817 /* AlbumInfoTableViewCell.swift in Sources */,
 				509DAA5C203981BF00AD5817 /* AlbumInfoTableViewController.swift in Sources */,
@@ -388,6 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 6KLQA7GG45;
 				INFOPLIST_FILE = "$(SRCROOT)/MusicPlayer/SupportFiles/Info.plist";
@@ -409,6 +414,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 6KLQA7GG45;
 				INFOPLIST_FILE = "$(SRCROOT)/MusicPlayer/SupportFiles/Info.plist";

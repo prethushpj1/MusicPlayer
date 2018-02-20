@@ -55,7 +55,7 @@ final class AlbumInfoTableViewController: UITableViewController {
                 
                 var albumDuration = ""
                 if (playbackDuration / 60) > 1{
-                    albumDuration = "\(String(format: "%.2f", (playbackDuration / 60))) \(LocalString("MINUTES"))"
+                    albumDuration = "\(format(Duration: playbackDuration)) \(LocalString("MINUTES"))"
                 }else{
                     albumDuration = "1 \(LocalString("MINUTE"))"
                 }
